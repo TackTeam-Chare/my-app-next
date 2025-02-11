@@ -6,7 +6,7 @@ export default function Home() {
       <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
        <h1>สวัสดี นี้คือ <span>commit จาก branch team</span></h1>
       </main>
-     
+     <p>พี่ทักสุดหล่อ</p>
     </div>
   );
 }
