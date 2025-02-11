@@ -7,6 +7,9 @@ export default function Home() {
        <h1>สวัสดี นี้คือ <span>commit จาก branch team</span></h1>
       </main>
      
+     <div>
+      เพิ่มอีกจาก branch team
+     </div>
     </div>
   );
 }
